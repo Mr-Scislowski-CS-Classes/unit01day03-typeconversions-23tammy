@@ -11,5 +11,10 @@ class DoubleOps {
   
       double random = Math.random();
       System.out.println("double random: " + random);
+
+
+
+
+      
     }
   }
